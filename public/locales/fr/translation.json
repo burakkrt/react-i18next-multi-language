@@ -1,0 +1,10 @@
+{
+  "blog": {
+    "title": "L'application Threads ne fonctionne pas : comment la réparer, les raisons possibles, etc.",
+    "content": "Meta a récemment lancé Threads, la nouvelle passerelle électronique, le 6 juillet, et elle a rapidement gagné en popularité dans le monde entier depuis lors. Il offre de nombreuses fonctionnalités, notamment le partage de photos, les chats, les plaisanteries, l'expression d'opinions, la participation à des rassemblements virtuels et, à terme, l'ambition de dépasser la domination de Twitter dans le domaine des médias sociaux.",
+    "date": "25 Juillet 2023",
+    "info": "Voici un exemple"
+  },
+  "developer": "Je détecte actuellement que le navigateur est le Français. Pour ces raisons, j'affiche le contenu en français.",
+  "multiLangs": "Ce site web offre un support linguistique en turc, anglais, allemand et français."
+}
