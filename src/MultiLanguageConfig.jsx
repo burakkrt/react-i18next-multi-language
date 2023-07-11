@@ -23,7 +23,7 @@ i18n
     .use(Backend)
     .use(LanguageDetector)
     .init({
-        fallbackLng: 'tr-TR', //Eğer locales altında ilgili dil yok ise default olarak bunu kullan
+        fallbackLng: 'tr', //Eğer locales altında ilgili dil yok ise default olarak bunu kullan
         debug: true, // i18next le ilgili tüm config objelerini console.log 'da göster.
     })
 
