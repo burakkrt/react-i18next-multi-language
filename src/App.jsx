@@ -14,7 +14,7 @@ export default function App() {
                     className="bg-red-400 text-slate-50 px-2 py-1 rounded-lg float-right">{t('blog.info')}</span>
                 <h1 className="text-3xl font-bold ">{t('blog.title')}</h1>
                 <div className="flex gap-x-2 my-2 text-slate-600">
-                    <span>Kaira Katarina</span>
+                    <span>John Steprolloer</span>
                     <span>{t('blog.date')}</span>
                 </div>
                 <img src="/threads.avif" alt="Threads Bug Fix Image"/>
